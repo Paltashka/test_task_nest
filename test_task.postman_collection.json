@@ -1,0 +1,110 @@
+{
+	"info": {
+		"_postman_id": "3a518ed9-4871-448f-8377-8a56d0c3b004",
+		"name": "test_task",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18690489"
+	},
+	"item": [
+		{
+			"name": "Get balance",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "key_for_access_to_api",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000/finance/user/1/balance",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"finance",
+						"user",
+						"1",
+						"balance"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deposit funds",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "key_for_access_to_api",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"amount\": 4\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/finance/user/1/balance",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"finance",
+						"user",
+						"1",
+						"balance"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Withdraw funds",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "key_for_access_to_api",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"amount\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/finance/user/1/balance/withdraw",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"finance",
+						"user",
+						"1",
+						"balance",
+						"withdraw"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

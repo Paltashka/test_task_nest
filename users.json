@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "username": "random_user",
+    "email": "random_user@gmail.com",
+    "account": {
+      "id": 1,
+      "userId": 1,
+      "balance": 17,
+      "transactions": []
+    }
+  }
+]

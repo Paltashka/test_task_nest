@@ -1,0 +1,177 @@
+[
+  {
+    "id": 0,
+    "createdAt": "2024-01-08T12:36:20.446Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 0
+  },
+  {
+    "id": 1,
+    "createdAt": "2024-01-08T12:36:26.160Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 0
+  },
+  {
+    "id": 2,
+    "createdAt": "2024-01-08T12:37:57.877Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 3,
+    "createdAt": "2024-01-08T12:38:14.373Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 4,
+    "createdAt": "2024-01-08T12:38:23.964Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 10
+  },
+  {
+    "id": 5,
+    "createdAt": "2024-01-08T12:38:31.208Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 3
+  },
+  {
+    "id": 6,
+    "createdAt": "2024-01-08T13:36:24.993Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 7,
+    "createdAt": "2024-01-08T13:36:57.446Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 8,
+    "createdAt": "2024-01-08T13:37:08.917Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 9,
+    "createdAt": "2024-01-08T13:37:23.869Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 10,
+    "createdAt": "2024-01-08T13:40:46.388Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 11,
+    "createdAt": "2024-01-08T13:41:33.039Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 12,
+    "createdAt": "2024-01-08T13:42:05.476Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 13,
+    "createdAt": "2024-01-08T13:52:41.658Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 7
+  },
+  {
+    "id": 14,
+    "createdAt": "2024-01-08T13:52:44.734Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 15,
+    "createdAt": "2024-01-08T13:54:26.910Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 16,
+    "createdAt": "2024-01-08T13:54:48.537Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 17,
+    "createdAt": "2024-01-08T13:56:56.739Z",
+    "accountId": 1,
+    "type": "DEPOSIT",
+    "amount": 5
+  },
+  {
+    "id": 18,
+    "createdAt": "2024-01-08T13:57:12.303Z",
+    "accountId": 1,
+    "type": "BALANCE",
+    "amount": 27
+  },
+  {
+    "id": 19,
+    "createdAt": "2024-01-08T13:57:17.450Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 3
+  },
+  {
+    "id": 20,
+    "createdAt": "2024-01-08T13:57:27.083Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 3
+  },
+  {
+    "id": 21,
+    "createdAt": "2024-01-08T14:00:08.399Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 1
+  },
+  {
+    "id": 22,
+    "createdAt": "2024-01-08T14:00:11.993Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 1
+  },
+  {
+    "id": 23,
+    "createdAt": "2024-01-08T14:00:46.946Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 1
+  },
+  {
+    "id": 24,
+    "createdAt": "2024-01-08T14:03:30.128Z",
+    "accountId": 1,
+    "type": "WITHDRAWAL",
+    "amount": 1
+  }
+]
